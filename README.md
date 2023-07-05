@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi there
+#### My name is Aaron Horne
+#### Currently a Software Integration Specialist
+#### Works at Innovation Industries Inc.
 
 <!--
 **AaronI3/AaronI3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
